@@ -3,7 +3,7 @@ layout: post
 title: A Little Intro 'Bout Myself
 ---
 
-I'm a nobody, there's nothing really interesting about me.
+I'm a nobody, there's really nothing interesting about me.
 
 I just float around the Internet, doing whatever.
 
